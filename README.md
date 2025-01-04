@@ -1,8 +1,8 @@
-Hi there! 👋
+# Hi there! 👋
 
-My name is Deborah😊
+## My name is Deborah😊
 
-Here are some ideas to get you started:
+### I am a Registered Midwife, a Reproductive Healthcare Provider and a Data Analyst❤
 
 - 🔭 I’m currently working on Excel Software and it's likes
 - 🌱 I’m currently learning Data Anaysis
@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything health and data related
 - 📫 How to reach me: (http://www.linkedin.com/in/ojukwu-deborah)
 - 😄 Pronouns: She
-- ⚡ Fun fact: I'm a Registered Midwife and  Reproductive Health Care Provider who is trying to harness the fun in the Data Analysis world.
+- ⚡ Fun fact: I'm a Registered Midwife and  Reproductive Health Care Provider who really enjoy health educating women of childbearing ages and is currently trying to harness the fun in the Data Analysis world.
   
