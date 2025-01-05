@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Data Analysis
 - 🤔 I’m looking for help with advanced knowledge on Data Analysis
 - 💬 Ask me about anything health and data related
-- 📫 How to reach me: (http://www.linkedin.com/in/ojukwu-deborah)
+- 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/ojukwu-deborah)
 - 😄 Pronouns: She
-- ⚡ Fun fact: I'm a Registered Midwife and  Reproductive Health Care Provider who really enjoy health educating women of childbearing ages and is currently trying to harness the fun in the Data Analysis world.
+- ⚡ Fun fact: I'm a Registered Midwife and Reproductive Health Care Provider who really enjoy health educating women of childbearing ages during the Pre conception stage, Pregnancy, Labour and Postpartum.I am currently trying to harness the fun in the Data Analysis world.
   
